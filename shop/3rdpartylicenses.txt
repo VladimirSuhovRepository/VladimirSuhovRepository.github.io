@@ -314,6 +314,14 @@ END OF TERMS AND CONDITIONS
 MIT
 MIT
 
+@ngx-loading-bar/core@2.2.0
+MIT
+MIT
+
+@ngx-loading-bar/http-client@2.2.0
+MIT
+MIT
+
 ng6-breadcrumbs@1.0.6
 MIT
 The MIT License (MIT)
