@@ -49,13 +49,6 @@ Version:1.4
 
 @import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Gudea:400,700,400italic|Oswald:400,700,300);
 
-
-/*CUSTOM STYLES*/
-#main-nav {
-  height: 60px;
-  line-height: 60px;
-}
-
 /* =============================================
 -------------------  1.General ---------------
 ==============================================*/
@@ -2584,6 +2577,7 @@ select.input-lg {
 	float:left;
 	font-size:17px;
 	text-transform:uppercase;
+	padding-bottom:18px;
 	position: relative;
 }
 
@@ -3709,10 +3703,9 @@ parent's font-size:0
 }
 
 #content img {
-  max-height: 200px;
-  max-width: 100%;
-  display: block;
-  height: auto;
+	max-width:100%;
+	display:block;
+	height:auto;
 }	
 
 .title {
@@ -3866,8 +3859,7 @@ parent's font-size:0
 }
 
 .item-image-wrapper {
-  position: relative;
-  min-height: 250px;
+	position: relative;
 }
 
 .item  .item-image-container {
@@ -3881,6 +3873,7 @@ parent's font-size:0
 }
 
 .item  .item-image-container  img {
+	width:100%;
 	height:auto;
 	-webkit-transition:all 0.3s;
 	-moz-transition:all 0.3s;
@@ -4175,10 +4168,8 @@ parent's font-size:0
 
 /* title for all items */
 .item-name {
-  font: 400 19px/24px 'PT Sans', sans-serif;
-  margin: 0 0 15px;
-  height: 25px;
-  overflow: hidden
+	font:400 19px/24px 'PT Sans', sans-serif;
+	margin:0 0 15px;
 }
 
 /* title for list style items */
@@ -4248,16 +4239,10 @@ parent's font-size:0
 }
 
 .icon-cart-text {
-  display: inline-block;
-  padding: 10px 16px;
-  font-weight: bold;
-  font-size: 13px;
-  -webkit-touch-callout: none; /* iOS Safari */
-  -webkit-user-select: none; /* Safari */
-  -khtml-user-select: none; /* Konqueror HTML */
-  -moz-user-select: none; /* Firefox */
-  -ms-user-select: none; /* Internet Explorer/Edge */
-  user-select: none;
+	display:inline-block;
+	padding:10px 16px;
+	font-weight:bold;
+	font-size:13px;
 }
 
 .item .item-action .item-action-inner {
