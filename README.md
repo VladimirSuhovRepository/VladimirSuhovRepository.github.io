@@ -1,4 +1,4 @@
-# Vladimir Suhov - Portfolio:
+# VladimirSuhovRepository.github.io:
 
 Ecommerce Shop [https://vladimirsuhovrepository.github.io/shop/](https://vladimirsuhovrepository.github.io/shop/)
 
