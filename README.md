@@ -1,4 +1,4 @@
-# VladimirSuhovRepository.github.io:
+# VladimirSuhovRepository:
 
 Ecommerce Shop [https://vladimirsuhovrepository.github.io/shop/](https://vladimirsuhovrepository.github.io/shop/)
 
