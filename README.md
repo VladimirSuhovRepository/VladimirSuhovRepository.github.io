@@ -4,4 +4,5 @@ Ecommerce Shop [https://vladimirsuhovrepository.github.io/shop/](https://vladimi
 
 Game Snake [https://vladimirsuhovrepository.github.io/snake/](https://vladimirsuhovrepository.github.io/snake/)
 
+CMS FoodCourt [https://vladimirsuhovrepository.github.io/foodCourt/](https://vladimirsuhovrepository.github.io/foodCourt/)
 
