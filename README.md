@@ -6,3 +6,5 @@ Game Snake [https://vladimirsuhovrepository.github.io/snake/](https://vladimirsu
 
 CMS FoodCourt [https://vladimirsuhovrepository.github.io/foodCourt/](https://vladimirsuhovrepository.github.io/foodCourt/)
 
+Kubernetes Autoscaling [https://github.com/VladimirSuhovRepository/autoscaling](https://github.com/VladimirSuhovRepository/autoscaling)
+
