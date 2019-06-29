@@ -60,7 +60,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
+@angular/material/button
+
 @angular/material/card
+
+@angular/material/expansion
 
 @angular/material/form-field
 
