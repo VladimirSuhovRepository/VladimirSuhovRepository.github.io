@@ -6,3 +6,5 @@ Game Snake [https://vladimirsuhovrepository.github.io/snake/](https://vladimirsu
 
 Kubernetes Autoscaling [https://github.com/VladimirSuhovRepository/autoscaling](https://github.com/VladimirSuhovRepository/autoscaling)
 
+AllResponsive Landing [https://allresponsive.azurewebsites.net/](https://allresponsive.azurewebsites.net/)
+
